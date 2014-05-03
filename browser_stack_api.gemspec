@@ -10,5 +10,4 @@ Gem::Specification.new do |f|
   f.require_paths = ["lib"]
   f.homepage      = %q{https://github.com/raycoding/browser_stock_api}
   f.license       = "MIT"
-  f.add_dependency "nokogiri", "~> 1.5.11"
 end
